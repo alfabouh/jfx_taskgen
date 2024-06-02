@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controllers.MainFrameController" styleClass="root">
+    <top>
+        <VBox fx:id="top_box" spacing="10">
+            <Label fx:id="title" text="Генератор случайных задач" />
+        </VBox>
+    </top>
+    <center>
+        <VBox fx:id="centerContainer" spacing="10">
+            <Label textFill="white" text="Задания:" />
+            <GridPane hgap="40" vgap="10" fx:id="checkboxContainer">
+            </GridPane>
+            <Button fx:id="chooseAllCheckBoxes" text="Выбрать все" onAction="#chooseAllCheckBoxes" BorderPane.alignment="CENTER_LEFT"/>
+        </VBox>
+    </center>
+    <bottom>
+        <VBox fx:id="bottomContainer" spacing="10">
+            <HBox spacing="4">
+                <Label textFill="white" text="Количество генераций:" />
+                <TextField fx:id="numberInput" />
+            </HBox>
+            <FlowPane alignment="CENTER_LEFT" hgap="10">
+                <Button fx:id="compileButton" text="Генерация" onAction="#compileButton" BorderPane.alignment="CENTER"/>
+            </FlowPane>
+        </VBox>
+    </bottom>
+</BorderPane>

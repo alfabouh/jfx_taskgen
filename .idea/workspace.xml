@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33868d59-1cfb-403c-91e2-4d815ff050cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/JFXMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/controllers/MainFrameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/GenerationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/ITask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/DemoTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/MathUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/generation/tasks/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gN2Tj3LPNJtaIhYZrbK3NbpakY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hardm/Desktop/javafx-sdk-22.0.1/lib/javafx.web.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.583908&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\random_gen_4\src\main\resources" />
+      <recent name="F:\random_gen_4\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app.generation.tasks" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test -DskipITs" />
+      <command value="mvn clean install -DskipITs" />
+      <command value="mvn clean install -DskipTests" />
+      <command value="mvn package -DskipTests" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <envs>
+        <env name="--module-path C:\Users\hardm\Desktop\javafx-sdk-22.0.1\lib --add-mo" value="ules=javafx.controls" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="app.JFXMain" />
+      <module name="random_gen_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33868d59-1cfb-403c-91e2-4d815ff050cc" name="Changes" comment="" />
+      <created>1715523723767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715523723767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.apache.commons.math3.exception.NumberIsTooLargeException" package="org.apache.commons.math3.exception" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
